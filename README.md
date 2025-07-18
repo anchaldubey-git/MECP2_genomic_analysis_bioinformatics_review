@@ -23,12 +23,6 @@ This project aims to investigate the **evolutionary conservation** of the MECP2 
 
 ---
 
-## 👩‍🔬 Author
-
-**Anchal Dubey**  
-MSc Biotechnology  
-This project was developed as part of a bioinformatics learning module on comparative gene analysis.
----
 
 ## 📌 Overview
 
@@ -73,6 +67,14 @@ This project was developed as part of a bioinformatics learning module on compar
 The strong conservation of MECP2 across species underscores its **biological significance**, and comparative analysis may aid in refining animal models and guiding therapeutic strategies.
 
 ---
+
+## 👩‍🔬 Author
+
+**Anchal Dubey**  
+MSc Biotechnology  
+This project was developed as part of a bioinformatics learning module on comparative gene analysis.
+---
+
 
 ## 📁 Project Structure
 <pre> MECP2_Comparative_Analysis/ ├── data/ │ ├── mecp2_human.fasta │ ├── mecp2_panpaniscus.fasta │ ├── mecp2_gorilla.fasta │ └── mecp2_mouse.fasta │ ├── results/ │ ├── blast/ │ │ └── blastp_results.txt │ ├── msa_alignment.aln │ ├── msa_conservation.png │ └── phylogenetic_tree.png │ ├── identity_plot.py └── README.md </pre>
