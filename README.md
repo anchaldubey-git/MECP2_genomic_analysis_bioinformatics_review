@@ -12,7 +12,7 @@ This project aims to investigate the **evolutionary conservation** of the MECP2 
 - **ClustalW / Clustal Omega** – Multiple sequence alignment
 - **Jalview** – Visualization and conservation scoring
 - **MEGA** – Phylogenetic tree construction
-- **Python (Matplotlib)** – Identity plotting (optional)
+- **Python (Matplotlib)** – Identity plotting 
 
 ---
 
